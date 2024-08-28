@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #e0d5c0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #dca279;
+}
+
+
+.cookie {
+    width: 300px;
+    height: auto;
+    align-items: center;
+}
+
+ul,
+ol {
+    margin: 20px 0;
+    padding: 0 20px;
+}
+
+li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+h2 {
+    color: #d2691e;
+}
+
+.content-flexbox {
+    display: flex;
+    justify-content: space-between;
+    /* Ensures even spacing between the two sections */
+    gap: 10px;
+    /* Adds space between the sections */
+    margin-top: 10px;
+}
+
+.ingredients,
+.instructions {
+    flex: 1;
+    /* Ensures both sections take up equal width */
+}
