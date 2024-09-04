@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my Web Development Teaching Portfolio! This repository showcases the projects and lessons I've designed to teach basic web development to students in elementary, middle, and high schools. My goal is to make learning web development fun, accessible, and practical by creating hands-on projects that students can relate to and enjoy.
+Welcome to my Web Development and Python Teaching Portfolio! This repository showcases the projects and lessons I've designed to teach basic web development to students in elementary, middle, and high schools. My goal is to make learning web development fun, accessible, and practical by creating hands-on projects that students can relate to and enjoy.
 
 ## Projects
 
