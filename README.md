@@ -18,7 +18,7 @@ In this project, students learn the basics of HTML and CSS by creating a webpage
 - CSS basics (colors, fonts, margins, padding)
 - Introduction to web page layout
 
-### 2. Mock Google Search Site
+### 2. Mock Search Engine Site
 
 **Target Audience**: Middle and High School Students
 
