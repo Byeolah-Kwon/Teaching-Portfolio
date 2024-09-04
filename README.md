@@ -38,5 +38,5 @@ Students take on a more advanced project by creating a mock version of the Googl
 2. **Clone the Repository**:
    If you'd like to try these projects on your own machine, you can clone the repository using the following command:
    ```bash
-   git clone https://github.com/your-username/Web-Development-Teaching-Portfolio.git
+   git clone https://github.com/your-username/Teaching-Portfolio.git
 
