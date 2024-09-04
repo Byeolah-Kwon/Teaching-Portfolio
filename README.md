@@ -1,4 +1,4 @@
-# Web-Development-Teaching-Portfolio
+# Teaching-Portfolio
 
 ## Introduction
 
